@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @blazerlion232
-- 👀 I’m interested in javascript/bugbounty
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-  Hi, I’m @blazerlion232
+-  I’m currently learning Javascript, python, HTML, SQL, Java and C++
+
 
 <!---
 blazerlion232/blazerlion232 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
